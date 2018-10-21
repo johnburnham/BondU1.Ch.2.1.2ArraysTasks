@@ -10,6 +10,7 @@ git push -u origin master
 // Bond U1; Ch. 2.1.2 p.204; Task 03; Enter Six values into an Array and then display the values.
 // John Fones; 181020;
 //================================================================================================
+
 using System;
 
 namespace Ch2_1_2_P204_Task03
